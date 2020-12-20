@@ -5,9 +5,7 @@
 
  
 
-## Results
 
-  Webull hasn't had as big of an impact in the investment management sector as its competitors, but for the short period of time they have been around, they have acquired over 5 million downloads of their app. They have recently included a desktop version. For their consumers, they've added cryptocurrency as a trade option. They are constantly adjusting to consumers wants and well as needs. Their most fierce competitor, Robinhood, with the same zero commission policy have lost thousands of clients due to lack of customer service.
   
 ## Recommendations
 
