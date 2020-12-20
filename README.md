@@ -2,9 +2,6 @@
 
  
   
-## Business Activities
-
-  Wang opened the company with the global market in mind. “Our goal is to enable global investors, not just those in China, to diversify their portfolios by investing overseas,” said Wang. “In many countries, there are only limited options for domestic investors who really want access to a much wider market. Providing real-time data and localized services will produce huge business opportunities in the industry.” Wang also knew there was a big market with the millennials. According to the U.S. Census Bureau, as of July 1, 2019, Millennials now reached 72.1 million which has surpased Generation X at 65.2 million people. Of those millennials 93% owned a smartphone. Wang came into the U.S. market knowing that the general public needed a research-heavy, user-friendly interface that they could try out investing or just learn. They have taken their app a step further by adding paper-trading. You can use $1,000,000.00 of your fake money and create a portfolio. If you learn well enough, then use real money and trade with confidence! Having a mobile app, it was easy to cut initial investment costs of having a brick-and-mortar offices. There was no need to hire investment advisors. The app did it all!! To keep the mobile and now desktop version operating Wang uses Jquery, NGINX, Google Ananlytics, and Google Tag Manager.  
 
 ## Landscape
 
