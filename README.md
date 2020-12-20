@@ -3,9 +3,7 @@
  
   
 
-## Landscape
-
-    The FinTech domains of investment management and robo-advisory has been growing exponentially in these past 5-10 years. A.I. is becoming omnipresent in todays investing, manual efforts are continuosly being eliminated. Work traditionally done by humans are being replaced by machines. The Artificial Intelligence algorithims help look through data ananlytics to help make quicker and proper trading decisions. Using the Artificial Intelligence in apps helps users, through their cell phones, make trading decisions on the move. The current players in investment management and robo-advisory were enlightened by Charles Darwin. It is not the strongest of the species that survies, nor the most intelligent, but the ones most responsive to change! Webull has only been actively trading for 3 years now, but they are just as strong as their competitors. The consumers have plenty to choose from. RobinHood is the closest in comparison to Webull, but there are also Acorn, Stash, Motif, E*Trade, You Invest by J.P. Morgan, and several more. Those companies that have decided to stay brick-and mortar only have become obsolete. 
+ 
 
 ## Results
 
